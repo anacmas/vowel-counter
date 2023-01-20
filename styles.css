@@ -88,6 +88,8 @@ button:active {
 
 .answer {
   margin-top: 1rem;
+  font-size: 18px;
+  color: white;
 }
 
 .about-group {
